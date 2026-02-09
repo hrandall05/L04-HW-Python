@@ -72,5 +72,3 @@ def drop_lowest(grades: list[str]) -> list[str]:
 
 def grade_avg(grades: list[float]) -> float:
     return sum(grades)/ len(grades)
-
-

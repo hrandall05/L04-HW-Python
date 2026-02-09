@@ -23,5 +23,3 @@ avg = grade_avg(num_grades)
 avg_letter = number_to_grade(avg)
 print(f"Calculated Average: {avg:.2f}")
 print("The average letter grade is: ", avg_letter) 
-
-
